@@ -1,42 +1,49 @@
-## Hi there 👋
+# Hi there, I'm Gabriel Santos 👋
 
-<!--
-**gabrielssp1234-a11y/gabrielssp1234-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 Sobre Mim
+- 🔭 Atualmente a trabalhar em **[Seu Projeto / Área Principal]**
+- 🌱 A aprender **HTML e CSS**
+- 💬 Pergunta-me sobre **[Tecnologias que dominas, ex: JavaScript, Python, React]**
+- ⚡ Curiosidade: **[Uma curiosidade ou hobby sobre ti]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---!>
-<p>Nome: Gabriel Santos Soares Pintinha
-Idade:12
-Área:programador full-stack
-Cor favorita:🟡
+### 🛠️ Linguagens e Ferramentas
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" alt="node" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
 </p>
-<h2>Linguagens que vou aprender</h2>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-  
-  ##
- 
-<div> 
-  
-  <a href="https://instagram.com//_____face______" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 
- <a href="https://discord.com/gabaoff/USERID" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "gabrielssp1234@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-  
-</div>
+---
+
+### 📊 Estatísticas do GitHub
+
+<!-- Substitua 'seu-usuario' pelo seu nome de utilizador do GitHub -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens mais usadas" width="48%" />
+</p>
+
+---
+
+### 📫 Como falar comigo
+
+<p align="left">
+  <a href="https://linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:seu-email@email.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://instagram.com/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
+
+
