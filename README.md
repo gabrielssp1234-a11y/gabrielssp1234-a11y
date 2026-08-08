@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--!>
+<p>Nome: Gabriel Santos Soares Pintinha
+Idade:12
+Área:programador full-stack
+Cor favorita:🟡
+</p>
 <h2>Linguagens que vou aprender</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
