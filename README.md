@@ -1,33 +1,44 @@
-# Hi there, I'm Gabriel Santos 👋
+# Hi there, I'm [Seu Nome] 👋
 
 ### 👨‍💻 Sobre Mim
 - 🔭 Atualmente a trabalhar em **[Seu Projeto / Área Principal]**
-- 🌱 A aprender **HTML e CSS**
-- 💬 Pergunta-me sobre **[Tecnologias que dominas, ex: JavaScript, Python, React]**
+- 🌱 A aprender **[O que estás a estudar de momento]**
+- 💬 Pergunta-me sobre **[Tecnologias que dominas]**
 - ⚡ Curiosidade: **[Uma curiosidade ou hobby sobre ti]**
 
 ---
 
-### 🛠️ Linguagens e Ferramentas
+### 📚 O que estou aprendendo / vou aprender
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node/node-original.svg" alt="node" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
 </p>
 
 ---
 
 ### 📊 Estatísticas do GitHub
 
-<!-- Substitua 'seu-usuario' pelo seu nome de utilizador do GitHub -->
+<!-- Substitua 'seu-usuario' pelo seu nome de utilizador do GitHub em todos os links -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radial" alt="Estatísticas do GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radial" alt="Linguagens mais usadas" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=dark&hide_border=true" alt="Estatísticas do GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=dark&hide_border=true" alt="Linguagens mais usadas" width="48%" />
+</p>
+
+---
+
+### 🐍 Contribuições do Ano (Jogo da Cobrinha)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/seu-usuario/seu-usuario/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
