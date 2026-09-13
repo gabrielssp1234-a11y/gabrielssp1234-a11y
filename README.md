@@ -14,7 +14,7 @@ Sou uma pessoa tímida e curiosa que amo colocar a mão na massa e testar coisas
 - 🎓 Estudante, sempre buscando aprender mais
 - 📘 Fazendo um **curso de tecnologia básica**
 - 💻 Estudando **programação por conta própria**, no meu ritmo
-- 🧪 Na próxima **segunda-feira** vou participar de uma **Feira de Tecnologia** — bora mostrar o que aprendi!
+- 🧪 Na próxima **terça-feira** vou participar de uma **Feira de Tecnologia** — bora mostrar o que aprendi!
 - 💛 Cor favorita: **amarelo**
 - 🍕 Comida favorita: **lasanha e pizza** (o combustível de todo bom código 😄)
 - ⚡ Curto testar ideias — quebrar a cabeça com bugs é a parte mais triste, mas quando o código finalmente funciona, aí sim é bom, com um cafezinho do lado pra comemorar
